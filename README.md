@@ -1,5 +1,10 @@
 # E-Commerce Application
 
+🌐 Live Demo
+Check out the live version here:
+🔗 https://e-comee-vinay-singhs-projects-1409d2e0.vercel.app/
+
+
 A modern, full-stack e-commerce application built with Go (backend) and React (frontend).
 
 ## 🚀 Features
